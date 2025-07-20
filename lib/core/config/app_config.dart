@@ -1,6 +1,5 @@
 class AppConfig {
-  // static const String baseUrl = "https://ad071c93e320.ngrok-free.app";
-  static const String baseUrl = "https://api.cosmotechintl.com/COSMO_HRIS";
+  static const String baseUrl = "https://ad071c93e320.ngrok-free.app";
 
   static const String apiVersion = "/api/v1";
   static const String apiBaseUrl = "$baseUrl$apiVersion";
